@@ -1,0 +1,14 @@
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\bin\Debug\netcoreapp2.1\RestaurantApiApplication1.deps.json
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\bin\Debug\netcoreapp2.1\RestaurantApiApplication1.runtimeconfig.json
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\bin\Debug\netcoreapp2.1\RestaurantApiApplication1.runtimeconfig.dev.json
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\bin\Debug\netcoreapp2.1\RestaurantApiApplication1.dll
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\bin\Debug\netcoreapp2.1\RestaurantApiApplication1.pdb
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\obj\Debug\netcoreapp2.1\RestaurantApiApplication1.csprojAssemblyReference.cache
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\obj\Debug\netcoreapp2.1\RestaurantApiApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\obj\Debug\netcoreapp2.1\RestaurantApiApplication1.RazorAssemblyInfo.cache
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\obj\Debug\netcoreapp2.1\RestaurantApiApplication1.RazorAssemblyInfo.cs
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\obj\Debug\netcoreapp2.1\RestaurantApiApplication1.AssemblyInfoInputs.cache
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\obj\Debug\netcoreapp2.1\RestaurantApiApplication1.AssemblyInfo.cs
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\obj\Debug\netcoreapp2.1\RestaurantApiApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\obj\Debug\netcoreapp2.1\RestaurantApiApplication1.dll
+C:\Users\Pete\source\repos\RestaurantApiApplication1\RestaurantApiApplication1\obj\Debug\netcoreapp2.1\RestaurantApiApplication1.pdb
